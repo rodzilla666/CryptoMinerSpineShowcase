@@ -1,0 +1,54 @@
+{
+    "name": "IA_Forest_RPG",
+    "maps": [
+        {
+            "name": "AM_Forest_RPG",
+            "id": "d9bbde04-1742-490e-b244-77e080682c53",
+            "actions": [
+                {
+                    "name": "Move_Right",
+                    "type": "Button",
+                    "id": "5324a5a1-bfde-4121-bac3-02f06ceeec04",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                },
+                {
+                    "name": "Move_Left",
+                    "type": "Button",
+                    "id": "2cafa3a9-8ef9-4614-959f-51b8e1dc35b2",
+                    "expectedControlType": "Button",
+                    "processors": "",
+                    "interactions": "",
+                    "initialStateCheck": false
+                }
+            ],
+            "bindings": [
+                {
+                    "name": "",
+                    "id": "57505f35-0c65-4a68-9b98-9122ae3c5cb7",
+                    "path": "<Keyboard>/d",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move_Right",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                },
+                {
+                    "name": "",
+                    "id": "174c66e5-b84a-4952-b5c4-526c808dfe64",
+                    "path": "<Keyboard>/a",
+                    "interactions": "",
+                    "processors": "",
+                    "groups": "",
+                    "action": "Move_Left",
+                    "isComposite": false,
+                    "isPartOfComposite": false
+                }
+            ]
+        }
+    ],
+    "controlSchemes": []
+}

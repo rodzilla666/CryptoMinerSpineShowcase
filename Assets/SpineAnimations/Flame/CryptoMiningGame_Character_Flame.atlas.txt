@@ -1,0 +1,20 @@
+
+CryptoMiningGame_Character_Flame.png
+size: 1680,1560
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Blue_Flame
+  rotate: false
+  xy: 2, 2
+  size: 837, 1553
+  orig: 837, 1553
+  offset: 0, 0
+  index: -1
+Red_Flame
+  rotate: false
+  xy: 841, 2
+  size: 837, 1553
+  orig: 837, 1553
+  offset: 0, 0
+  index: -1
