@@ -1,0 +1,118 @@
+
+CryptoMiningGame_Character.png
+size: 1456,868
+format: RGBA8888
+filter: Linear,Linear
+repeat: none
+Red/Beard
+  rotate: true
+  xy: 841, 67
+  size: 335, 153
+  orig: 336, 153
+  offset: 0, 0
+  index: -1
+Red/Body
+  rotate: true
+  xy: 2, 2
+  size: 316, 361
+  orig: 327, 361
+  offset: 11, 0
+  index: -1
+Red/Glasses
+  rotate: true
+  xy: 793, 404
+  size: 460, 199
+  orig: 460, 199
+  offset: 0, 0
+  index: -1
+Red/Helmet
+  rotate: true
+  xy: 297, 320
+  size: 544, 293
+  orig: 544, 293
+  offset: 0, 0
+  index: -1
+Red/Left_Arm
+  rotate: true
+  xy: 1213, 388
+  size: 236, 239
+  orig: 236, 239
+  offset: 0, 0
+  index: -1
+Red/Left_Leg
+  rotate: false
+  xy: 996, 250
+  size: 179, 159
+  orig: 217, 159
+  offset: 38, 0
+  index: -1
+Red/Right_Arm
+  rotate: true
+  xy: 1177, 170
+  size: 216, 270
+  orig: 216, 270
+  offset: 0, 0
+  index: -1
+Red/Right_Leg
+  rotate: false
+  xy: 1173, 4
+  size: 173, 164
+  orig: 175, 164
+  offset: 2, 0
+  index: -1
+Yellow/Beard
+  rotate: true
+  xy: 686, 67
+  size: 335, 153
+  orig: 338, 155
+  offset: 1, 1
+  index: -1
+Yellow/Body
+  rotate: true
+  xy: 365, 15
+  size: 303, 319
+  orig: 329, 363
+  offset: 26, 44
+  index: -1
+Yellow/Glasses
+  rotate: true
+  xy: 592, 404
+  size: 460, 199
+  orig: 462, 201
+  offset: 1, 1
+  index: -1
+Yellow/Helmet
+  rotate: true
+  xy: 2, 320
+  size: 544, 293
+  orig: 546, 295
+  offset: 1, 1
+  index: -1
+Yellow/Left_Arm
+  rotate: true
+  xy: 1213, 626
+  size: 238, 241
+  orig: 238, 241
+  offset: 0, 0
+  index: -1
+Yellow/Left_Leg
+  rotate: true
+  xy: 994, 411
+  size: 179, 160
+  orig: 219, 161
+  offset: 39, 0
+  index: -1
+Yellow/Right_Arm
+  rotate: false
+  xy: 994, 592
+  size: 217, 272
+  orig: 218, 272
+  offset: 0, 0
+  index: -1
+Yellow/Right_Leg
+  rotate: false
+  xy: 996, 2
+  size: 175, 166
+  orig: 177, 166
+  offset: 2, 0
+  index: -1
